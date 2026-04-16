@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="hidden md:flex gap-8 items-center">
           <a className="text-indigo-900 dark:text-indigo-400 font-semibold border-b-2 border-indigo-900 font-manrope tracking-tight" href="#">Buy</a>
           <a className="text-slate-500 dark:text-slate-400 hover:text-indigo-900 transition-opacity duration-300 font-manrope tracking-tight" href="#">Sell</a>
-          <a className="text-slate-500 dark:text-slate-400 hover:text-indigo-900 transition-opacity duration-300 font-manrope tracking-tight" href="#">Valuation</a>
+          <a className="text-slate-500 dark:text-slate-400 hover:text-indigo-900 transition-opacity duration-300 font-manrope tracking-tight" href="#">Contact</a>
           <a className="text-slate-500 dark:text-slate-400 hover:text-indigo-900 transition-opacity duration-300 font-manrope tracking-tight" href="#">About</a>
         </div>
       </div>
